@@ -12,6 +12,7 @@ public class _1102 {
         BigInteger nOnce = new BigInteger("11");
         BigInteger numero;
 
+        //Probar while
         while (true) {
             numero = leer.nextBigInteger();
 
