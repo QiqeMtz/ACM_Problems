@@ -13,6 +13,7 @@ public class _1102 {
         BigInteger numero;
 
         //Probar while
+        //Por si acaso
         while (true) {
             numero = leer.nextBigInteger();
 
