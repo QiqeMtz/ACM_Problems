@@ -1,4 +1,4 @@
-package COJ;
+package COJ.Java;
 
 
 import java.util.Scanner;
