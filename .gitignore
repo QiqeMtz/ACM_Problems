@@ -1,7 +1,8 @@
 /dist/
 /build/
 /nbproject/
-.xml
-.mf
+/.idea/
 /out/
-.iml
+*.xml
+*.mf
+*.iml
