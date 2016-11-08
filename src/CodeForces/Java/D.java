@@ -1,4 +1,4 @@
-package CodeForces;
+package CodeForces.Java;
 
 import java.io.*;
 import java.util.ArrayList;
